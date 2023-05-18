@@ -54,3 +54,7 @@ a:hover {
 a:active {
   background-color: green;
 }
+
+table tr:nth-of-type(3n) {
+  background-color: gray;
+}
